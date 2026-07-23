@@ -1,0 +1,19 @@
+# Data files
+GSE18123_family.soft
+GSE18123_family.soft.gz
+*.soft
+*.soft.gz
+*.csv
+*.tsv
+*.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
